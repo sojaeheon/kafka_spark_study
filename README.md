@@ -39,12 +39,13 @@
 | 02 | Git, Python, PyCharm, GitHub 개발 환경 | [노트 보기](./02-development-environment/README.md) | ✅ 정리 완료 |
 | 03 | AWS 네트워크, EC2, Ansible, CI/CD | [노트 보기](./03-aws-infrastructure/README.md) | ✅ 정리 완료 |
 | 04 | Kafka 클러스터, 파티션, 복제, 주요 옵션 | [노트 보기](./04-kafka-cluster/README.md) | ✅ 정리 완료 |
-| 05 | Kafka Producer와 Consumer | - | ⏳ 학습 예정 |
-| 06 | Spark SQL, Spark Streaming | - | ⏳ 학습 예정 |
-| 07 | Kafka와 Spark 연동 | - | ⏳ 학습 예정 |
-| 08 | Prometheus, Grafana | - | ⏳ 학습 예정 |
-| 09 | S3, Glue, Athena | - | ⏳ 학습 예정 |
-| 10 | 클러스터 가용성 테스트 | - | ⏳ 학습 예정 |
+| 05 | Kafka Producer 구현과 성능 | [노트 보기](./05-kafka-producer/README.md) | ✅ 정리 완료 |
+| 06 | Kafka Consumer 구현과 성능 | - | ⏳ 학습 예정 |
+| 07 | Spark SQL, Spark Streaming | - | ⏳ 학습 예정 |
+| 08 | Kafka와 Spark 연동 | - | ⏳ 학습 예정 |
+| 09 | Prometheus, Grafana | - | ⏳ 학습 예정 |
+| 10 | S3, Glue, Athena | - | ⏳ 학습 예정 |
+| 11 | 클러스터 가용성 테스트 | - | ⏳ 학습 예정 |
 
 > 학습 진행에 따라 각 항목의 상태와 관련 문서 링크를 업데이트합니다.
 
