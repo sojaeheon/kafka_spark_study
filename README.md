@@ -45,7 +45,7 @@
 | 08 | Spark 셋업, DataFrame, Application과 Cluster 구조 | [노트 보기](./08-spark-setup-and-fundamentals/README.md) | ✅ 정리 완료 |
 | 09 | Spark Standalone, Hadoop YARN, 배포 모드 | [노트 보기](./09-spark-cluster/README.md) | ✅ 정리 완료 |
 | 10 | Spark 함수, 실행 구조, Partition과 실행 계획 | [노트 보기](./10-spark-execution-internals/README.md) | ✅ 정리 완료 |
-| 11 | 클러스터 가용성 테스트 | - | ⏳ 학습 예정 |
+| 11 | Spark SQL, Join, Catalog, Hive Metastore와 S3 | [노트 보기](./11-spark-sql-and-catalog/README.md) | ✅ 정리 완료 |
 
 > 학습 진행에 따라 각 항목의 상태와 관련 문서 링크를 업데이트합니다.
 
